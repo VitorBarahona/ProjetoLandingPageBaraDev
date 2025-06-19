@@ -99,7 +99,7 @@ body {
   padding: 50px 40px;
   position: relative;
   overflow: hidden;
-  /* color: #fff; */
+  color: #444;
 }
 
 .benefit-card::before {
